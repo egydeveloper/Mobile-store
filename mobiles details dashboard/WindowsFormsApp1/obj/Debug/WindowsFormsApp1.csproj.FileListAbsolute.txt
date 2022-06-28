@@ -1,0 +1,202 @@
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mobiledetails.resources
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.Desktop.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v22.1.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Images.v22.1.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v22.1.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.Desktop.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mobilesimges.resources
+C:\Users\NoteBook\OneDrive\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.intiatcreate.resources
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.1.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Drawing.v22.1.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.1.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v22.1.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.Desktop.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v22.1.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Images.v22.1.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Office.v22.1.Core.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Data.v22.1.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v22.1.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v22.1.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v22.1.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.Desktop.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\DevExpress.Office.v22.1.Core.xml
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraScheduler.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraScheduler.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraScheduler.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.intiatcreate.resources
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mobiledetails.resources
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mobilesimges.resources
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\merged_partition_content\project c#\git priject c#\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
