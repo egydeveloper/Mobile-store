@@ -34,22 +34,6 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.textprice = new DevExpress.XtraEditors.TextEdit();
             this.griddatabase = new System.Windows.Forms.DataGridView();
-            this.idDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.nameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.priceDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.screenDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.storageDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ramDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.batteryDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.frontcameraDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.backcameraDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.processorDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.androidDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.networkDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.quantityDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.warrantyDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dateDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.mobildetaileBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             this.datetext = new DevExpress.XtraEditors.DateEdit();
             this.label16 = new System.Windows.Forms.Label();
             this.btnadd = new DevExpress.XtraEditors.SimpleButton();
@@ -79,11 +63,26 @@
             this.label3 = new System.Windows.Forms.Label();
             this.textnm = new DevExpress.XtraEditors.TextEdit();
             this.behaviorManager1 = new DevExpress.Utils.Behaviors.BehaviorManager(this.components);
+            this.idDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.priceDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.screenDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.storageDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ramDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.batteryDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.frontcameraDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.backcameraDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.processorDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.androidDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.networkDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.quantityDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.warrantyDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dateDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.mobildetaileBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             this.mobildetaileBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.textprice.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.griddatabase)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.mobildetaileBindingSource1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.datetext.Properties.CalendarTimeProperties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.datetext.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.textwarranty.Properties)).BeginInit();
@@ -99,6 +98,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.textscreen.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.textnm.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.behaviorManager1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.mobildetaileBindingSource1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.mobildetaileBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
@@ -209,104 +209,9 @@
             this.griddatabase.Size = new System.Drawing.Size(793, 554);
             this.griddatabase.TabIndex = 31;
             // 
-            // idDataGridViewTextBoxColumn
-            // 
-            this.idDataGridViewTextBoxColumn.DataPropertyName = "id";
-            this.idDataGridViewTextBoxColumn.HeaderText = "id";
-            this.idDataGridViewTextBoxColumn.Name = "idDataGridViewTextBoxColumn";
-            this.idDataGridViewTextBoxColumn.ReadOnly = true;
-            // 
-            // nameDataGridViewTextBoxColumn
-            // 
-            this.nameDataGridViewTextBoxColumn.DataPropertyName = "name";
-            this.nameDataGridViewTextBoxColumn.HeaderText = "name";
-            this.nameDataGridViewTextBoxColumn.Name = "nameDataGridViewTextBoxColumn";
-            // 
-            // priceDataGridViewTextBoxColumn
-            // 
-            this.priceDataGridViewTextBoxColumn.DataPropertyName = "price";
-            this.priceDataGridViewTextBoxColumn.HeaderText = "price";
-            this.priceDataGridViewTextBoxColumn.Name = "priceDataGridViewTextBoxColumn";
-            // 
-            // screenDataGridViewTextBoxColumn
-            // 
-            this.screenDataGridViewTextBoxColumn.DataPropertyName = "screen";
-            this.screenDataGridViewTextBoxColumn.HeaderText = "screen";
-            this.screenDataGridViewTextBoxColumn.Name = "screenDataGridViewTextBoxColumn";
-            // 
-            // storageDataGridViewTextBoxColumn
-            // 
-            this.storageDataGridViewTextBoxColumn.DataPropertyName = "storage";
-            this.storageDataGridViewTextBoxColumn.HeaderText = "storage";
-            this.storageDataGridViewTextBoxColumn.Name = "storageDataGridViewTextBoxColumn";
-            // 
-            // ramDataGridViewTextBoxColumn
-            // 
-            this.ramDataGridViewTextBoxColumn.DataPropertyName = "ram";
-            this.ramDataGridViewTextBoxColumn.HeaderText = "ram";
-            this.ramDataGridViewTextBoxColumn.Name = "ramDataGridViewTextBoxColumn";
-            // 
-            // batteryDataGridViewTextBoxColumn
-            // 
-            this.batteryDataGridViewTextBoxColumn.DataPropertyName = "battery";
-            this.batteryDataGridViewTextBoxColumn.HeaderText = "battery";
-            this.batteryDataGridViewTextBoxColumn.Name = "batteryDataGridViewTextBoxColumn";
-            // 
-            // frontcameraDataGridViewTextBoxColumn
-            // 
-            this.frontcameraDataGridViewTextBoxColumn.DataPropertyName = "front_camera";
-            this.frontcameraDataGridViewTextBoxColumn.HeaderText = "front_camera";
-            this.frontcameraDataGridViewTextBoxColumn.Name = "frontcameraDataGridViewTextBoxColumn";
-            // 
-            // backcameraDataGridViewTextBoxColumn
-            // 
-            this.backcameraDataGridViewTextBoxColumn.DataPropertyName = "back_camera";
-            this.backcameraDataGridViewTextBoxColumn.HeaderText = "back_camera";
-            this.backcameraDataGridViewTextBoxColumn.Name = "backcameraDataGridViewTextBoxColumn";
-            // 
-            // processorDataGridViewTextBoxColumn
-            // 
-            this.processorDataGridViewTextBoxColumn.DataPropertyName = "processor";
-            this.processorDataGridViewTextBoxColumn.HeaderText = "processor";
-            this.processorDataGridViewTextBoxColumn.Name = "processorDataGridViewTextBoxColumn";
-            // 
-            // androidDataGridViewTextBoxColumn
-            // 
-            this.androidDataGridViewTextBoxColumn.DataPropertyName = "android";
-            this.androidDataGridViewTextBoxColumn.HeaderText = "android";
-            this.androidDataGridViewTextBoxColumn.Name = "androidDataGridViewTextBoxColumn";
-            // 
-            // networkDataGridViewTextBoxColumn
-            // 
-            this.networkDataGridViewTextBoxColumn.DataPropertyName = "network";
-            this.networkDataGridViewTextBoxColumn.HeaderText = "network";
-            this.networkDataGridViewTextBoxColumn.Name = "networkDataGridViewTextBoxColumn";
-            // 
-            // quantityDataGridViewTextBoxColumn
-            // 
-            this.quantityDataGridViewTextBoxColumn.DataPropertyName = "quantity";
-            this.quantityDataGridViewTextBoxColumn.HeaderText = "quantity";
-            this.quantityDataGridViewTextBoxColumn.Name = "quantityDataGridViewTextBoxColumn";
-            // 
-            // warrantyDataGridViewTextBoxColumn
-            // 
-            this.warrantyDataGridViewTextBoxColumn.DataPropertyName = "warranty";
-            this.warrantyDataGridViewTextBoxColumn.HeaderText = "warranty";
-            this.warrantyDataGridViewTextBoxColumn.Name = "warrantyDataGridViewTextBoxColumn";
-            // 
-            // dateDataGridViewTextBoxColumn
-            // 
-            this.dateDataGridViewTextBoxColumn.DataPropertyName = "date";
-            this.dateDataGridViewTextBoxColumn.HeaderText = "date";
-            this.dateDataGridViewTextBoxColumn.Name = "dateDataGridViewTextBoxColumn";
-            // 
-            // mobildetaileBindingSource1
-            // 
-            this.mobildetaileBindingSource1.DataSource = typeof(WindowsFormsApp1.mobildetaile);
-            // 
             // datetext
             // 
-            this.datetext.EditValue = null;
+            this.datetext.EditValue = new System.DateTime(2022, 6, 29, 10, 25, 45, 165);
             this.datetext.Location = new System.Drawing.Point(91, 435);
             this.datetext.Name = "datetext";
             this.datetext.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
@@ -580,6 +485,101 @@
             this.textnm.TabIndex = 1;
             this.textnm.EditValueChanged += new System.EventHandler(this.Textnm_EditValueChanged);
             // 
+            // idDataGridViewTextBoxColumn
+            // 
+            this.idDataGridViewTextBoxColumn.DataPropertyName = "id";
+            this.idDataGridViewTextBoxColumn.HeaderText = "id";
+            this.idDataGridViewTextBoxColumn.Name = "idDataGridViewTextBoxColumn";
+            this.idDataGridViewTextBoxColumn.ReadOnly = true;
+            // 
+            // nameDataGridViewTextBoxColumn
+            // 
+            this.nameDataGridViewTextBoxColumn.DataPropertyName = "name";
+            this.nameDataGridViewTextBoxColumn.HeaderText = "name";
+            this.nameDataGridViewTextBoxColumn.Name = "nameDataGridViewTextBoxColumn";
+            // 
+            // priceDataGridViewTextBoxColumn
+            // 
+            this.priceDataGridViewTextBoxColumn.DataPropertyName = "price";
+            this.priceDataGridViewTextBoxColumn.HeaderText = "price";
+            this.priceDataGridViewTextBoxColumn.Name = "priceDataGridViewTextBoxColumn";
+            // 
+            // screenDataGridViewTextBoxColumn
+            // 
+            this.screenDataGridViewTextBoxColumn.DataPropertyName = "screen";
+            this.screenDataGridViewTextBoxColumn.HeaderText = "screen";
+            this.screenDataGridViewTextBoxColumn.Name = "screenDataGridViewTextBoxColumn";
+            // 
+            // storageDataGridViewTextBoxColumn
+            // 
+            this.storageDataGridViewTextBoxColumn.DataPropertyName = "storage";
+            this.storageDataGridViewTextBoxColumn.HeaderText = "storage";
+            this.storageDataGridViewTextBoxColumn.Name = "storageDataGridViewTextBoxColumn";
+            // 
+            // ramDataGridViewTextBoxColumn
+            // 
+            this.ramDataGridViewTextBoxColumn.DataPropertyName = "ram";
+            this.ramDataGridViewTextBoxColumn.HeaderText = "ram";
+            this.ramDataGridViewTextBoxColumn.Name = "ramDataGridViewTextBoxColumn";
+            // 
+            // batteryDataGridViewTextBoxColumn
+            // 
+            this.batteryDataGridViewTextBoxColumn.DataPropertyName = "battery";
+            this.batteryDataGridViewTextBoxColumn.HeaderText = "battery";
+            this.batteryDataGridViewTextBoxColumn.Name = "batteryDataGridViewTextBoxColumn";
+            // 
+            // frontcameraDataGridViewTextBoxColumn
+            // 
+            this.frontcameraDataGridViewTextBoxColumn.DataPropertyName = "front_camera";
+            this.frontcameraDataGridViewTextBoxColumn.HeaderText = "front_camera";
+            this.frontcameraDataGridViewTextBoxColumn.Name = "frontcameraDataGridViewTextBoxColumn";
+            // 
+            // backcameraDataGridViewTextBoxColumn
+            // 
+            this.backcameraDataGridViewTextBoxColumn.DataPropertyName = "back_camera";
+            this.backcameraDataGridViewTextBoxColumn.HeaderText = "back_camera";
+            this.backcameraDataGridViewTextBoxColumn.Name = "backcameraDataGridViewTextBoxColumn";
+            // 
+            // processorDataGridViewTextBoxColumn
+            // 
+            this.processorDataGridViewTextBoxColumn.DataPropertyName = "processor";
+            this.processorDataGridViewTextBoxColumn.HeaderText = "processor";
+            this.processorDataGridViewTextBoxColumn.Name = "processorDataGridViewTextBoxColumn";
+            // 
+            // androidDataGridViewTextBoxColumn
+            // 
+            this.androidDataGridViewTextBoxColumn.DataPropertyName = "android";
+            this.androidDataGridViewTextBoxColumn.HeaderText = "android";
+            this.androidDataGridViewTextBoxColumn.Name = "androidDataGridViewTextBoxColumn";
+            // 
+            // networkDataGridViewTextBoxColumn
+            // 
+            this.networkDataGridViewTextBoxColumn.DataPropertyName = "network";
+            this.networkDataGridViewTextBoxColumn.HeaderText = "network";
+            this.networkDataGridViewTextBoxColumn.Name = "networkDataGridViewTextBoxColumn";
+            // 
+            // quantityDataGridViewTextBoxColumn
+            // 
+            this.quantityDataGridViewTextBoxColumn.DataPropertyName = "quantity";
+            this.quantityDataGridViewTextBoxColumn.HeaderText = "quantity";
+            this.quantityDataGridViewTextBoxColumn.Name = "quantityDataGridViewTextBoxColumn";
+            // 
+            // warrantyDataGridViewTextBoxColumn
+            // 
+            this.warrantyDataGridViewTextBoxColumn.DataPropertyName = "warranty";
+            this.warrantyDataGridViewTextBoxColumn.HeaderText = "warranty";
+            this.warrantyDataGridViewTextBoxColumn.Name = "warrantyDataGridViewTextBoxColumn";
+            // 
+            // dateDataGridViewTextBoxColumn
+            // 
+            this.dateDataGridViewTextBoxColumn.DataPropertyName = "date";
+            this.dateDataGridViewTextBoxColumn.HeaderText = "date";
+            this.dateDataGridViewTextBoxColumn.Name = "dateDataGridViewTextBoxColumn";
+            // 
+            // mobildetaileBindingSource1
+            // 
+            this.mobildetaileBindingSource1.DataSource = typeof(WindowsFormsApp1.mobildetaile);
+            // 
             // mobildetaileBindingSource
             // 
             this.mobildetaileBindingSource.DataSource = typeof(WindowsFormsApp1.mobildetaile);
@@ -601,7 +601,6 @@
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.textprice.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.griddatabase)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.mobildetaileBindingSource1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.datetext.Properties.CalendarTimeProperties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.datetext.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.textwarranty.Properties)).EndInit();
@@ -617,6 +616,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.textscreen.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.textnm.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.behaviorManager1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.mobildetaileBindingSource1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.mobildetaileBindingSource)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

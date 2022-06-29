@@ -70,9 +70,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="entitystore.cs" />
-    <Compile Include="Migrations\202206281817525_intiatcreate.cs" />
-    <Compile Include="Migrations\202206281817525_intiatcreate.designer.cs">
-      <DependentUpon>202206281817525_intiatcreate.cs</DependentUpon>
+    <Compile Include="Migrations\202206290805295_intiatcreate.cs" />
+    <Compile Include="Migrations\202206290805295_intiatcreate.designer.cs">
+      <DependentUpon>202206290805295_intiatcreate.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="mobildetaile.cs" />
@@ -91,8 +91,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Migrations\202206281817525_intiatcreate.resx">
-      <DependentUpon>202206281817525_intiatcreate.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202206290805295_intiatcreate.resx">
+      <DependentUpon>202206290805295_intiatcreate.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="mobiledetails.resx">
       <DependentUpon>mobiledetails.cs</DependentUpon>

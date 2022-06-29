@@ -13,7 +13,7 @@ namespace WindowsFormsApp1.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "202206281817525_intiatcreate"; }
+            get { return "202206290805295_intiatcreate"; }
         }
         
         string IMigrationMetadata.Source

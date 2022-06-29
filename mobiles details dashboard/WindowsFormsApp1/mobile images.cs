@@ -14,6 +14,7 @@ namespace WindowsFormsApp1
         [ForeignKey("Mobildetaile")]
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int mobildetaileId { get; set; }
+        [Required]
         public string nameproduct { get; set; }
         public byte[] productimg1 { get; set; }
         public byte[] productimg2 { get; set; }

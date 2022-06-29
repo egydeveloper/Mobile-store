@@ -14,10 +14,6 @@ namespace WindowsFormsApp1
         }
         public DbSet<mobildetaile> mobdetailes { get; set; }
         public DbSet<mobile_images> mobimages { get; set; }
-        //protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        //{
-        //    modelBuilder.Entity<mobildetaile>()
-        //        .HasOptional(a => a.Mobile_Images).WithRequired(ab => ab.Mobildetaile).Has
-        //}
+    
     }
 }
