@@ -200,3 +200,4 @@ C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\ob
 C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.intiatcreate.resources
+C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mobiles.resources

@@ -130,12 +130,5 @@ namespace WindowsFormsApp1
             }
         }
 
-        private void Mobdetail_Click(object sender, EventArgs e)
-        {
-            this.Hide();
-            objmob.Show();
-        }
-
-       
     }
 }

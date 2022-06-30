@@ -83,6 +83,12 @@
     <Compile Include="mobiledetails.Designer.cs">
       <DependentUpon>mobiledetails.cs</DependentUpon>
     </Compile>
+    <Compile Include="mobiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mobiles.Designer.cs">
+      <DependentUpon>mobiles.cs</DependentUpon>
+    </Compile>
     <Compile Include="mobilesimges.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -96,6 +102,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="mobiledetails.resx">
       <DependentUpon>mobiledetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mobiles.resx">
+      <DependentUpon>mobiles.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="mobilesimges.resx">
       <DependentUpon>mobilesimges.cs</DependentUpon>
