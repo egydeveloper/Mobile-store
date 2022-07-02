@@ -10,6 +10,8 @@ namespace WindowsFormsApp1
 {
     class mobile_images
     {
+        /// create table in databse with relation one to one table mobile detailes
+
         [Key]
         [ForeignKey("Mobildetaile")]
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
@@ -20,7 +22,8 @@ namespace WindowsFormsApp1
         public byte[] productimg2 { get; set; }
         public byte[] productimg3 { get; set; }
         public virtual mobildetaile Mobildetaile { set; get; }
+      
+     
 
-        
     }
 }

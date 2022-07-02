@@ -31,33 +31,35 @@
             this.components = new System.ComponentModel.Container();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
-            this.simpleButton5 = new DevExpress.XtraEditors.SimpleButton();
-            this.simpleButton6 = new DevExpress.XtraEditors.SimpleButton();
-            this.btnclear = new DevExpress.XtraEditors.SimpleButton();
+            this.textname = new WindowsFormsApp1.custom.textbox();
+            this.btnorder = new DevExpress.XtraEditors.SimpleButton();
+            this.btnremove = new DevExpress.XtraEditors.SimpleButton();
+            this.btnsearch = new DevExpress.XtraEditors.SimpleButton();
+            this.btnupdate = new DevExpress.XtraEditors.SimpleButton();
             this.img3 = new System.Windows.Forms.PictureBox();
             this.img2 = new System.Windows.Forms.PictureBox();
             this.img1 = new System.Windows.Forms.PictureBox();
-            this.textname = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.dataimages = new System.Windows.Forms.DataGridView();
-            this.btn1add = new DevExpress.XtraEditors.SimpleButton();
-            this.btnimage2 = new DevExpress.XtraEditors.SimpleButton();
-            this.btnimg3 = new DevExpress.XtraEditors.SimpleButton();
-            this.btnimg1 = new DevExpress.XtraEditors.SimpleButton();
-            this.dialogimg1 = new System.Windows.Forms.OpenFileDialog();
-            this.dialogimg2 = new System.Windows.Forms.OpenFileDialog();
-            this.dialogimg3 = new System.Windows.Forms.OpenFileDialog();
             this.nameproductDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.productimg1DataGridViewImageColumn = new System.Windows.Forms.DataGridViewImageColumn();
             this.productimg2DataGridViewImageColumn = new System.Windows.Forms.DataGridViewImageColumn();
             this.productimg3DataGridViewImageColumn = new System.Windows.Forms.DataGridViewImageColumn();
+            this.mobileimagesBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
+            this.btn1add = new DevExpress.XtraEditors.SimpleButton();
+            this.btnimage2 = new DevExpress.XtraEditors.SimpleButton();
+            this.btnimg3 = new DevExpress.XtraEditors.SimpleButton();
+            this.btnimg1 = new DevExpress.XtraEditors.SimpleButton();
             this.mobileimagesBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.dialogimg1 = new System.Windows.Forms.OpenFileDialog();
+            this.dialogimg2 = new System.Windows.Forms.OpenFileDialog();
+            this.dialogimg3 = new System.Windows.Forms.OpenFileDialog();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.img3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.img2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.img1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataimages)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.mobileimagesBindingSource1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.mobileimagesBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
@@ -67,14 +69,14 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel1.BackColor = System.Drawing.Color.OrangeRed;
-            this.panel1.Controls.Add(this.simpleButton2);
-            this.panel1.Controls.Add(this.simpleButton5);
-            this.panel1.Controls.Add(this.simpleButton6);
-            this.panel1.Controls.Add(this.btnclear);
+            this.panel1.Controls.Add(this.textname);
+            this.panel1.Controls.Add(this.btnorder);
+            this.panel1.Controls.Add(this.btnremove);
+            this.panel1.Controls.Add(this.btnsearch);
+            this.panel1.Controls.Add(this.btnupdate);
             this.panel1.Controls.Add(this.img3);
             this.panel1.Controls.Add(this.img2);
             this.panel1.Controls.Add(this.img1);
-            this.panel1.Controls.Add(this.textname);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.dataimages);
             this.panel1.Controls.Add(this.btn1add);
@@ -86,109 +88,133 @@
             this.panel1.Size = new System.Drawing.Size(1193, 654);
             this.panel1.TabIndex = 0;
             // 
-            // simpleButton2
+            // textname
             // 
-            this.simpleButton2.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.simpleButton2.Appearance.Options.UseFont = true;
-            this.simpleButton2.AppearanceHovered.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.simpleButton2.AppearanceHovered.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.simpleButton2.AppearanceHovered.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.simpleButton2.AppearanceHovered.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.simpleButton2.AppearanceHovered.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.simpleButton2.AppearanceHovered.Options.UseBackColor = true;
-            this.simpleButton2.AppearanceHovered.Options.UseBorderColor = true;
-            this.simpleButton2.AppearanceHovered.Options.UseFont = true;
-            this.simpleButton2.AppearanceHovered.Options.UseForeColor = true;
-            this.simpleButton2.AppearancePressed.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.simpleButton2.AppearancePressed.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.simpleButton2.AppearancePressed.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.simpleButton2.AppearancePressed.ForeColor = System.Drawing.Color.Silver;
-            this.simpleButton2.AppearancePressed.Options.UseBackColor = true;
-            this.simpleButton2.AppearancePressed.Options.UseFont = true;
-            this.simpleButton2.AppearancePressed.Options.UseForeColor = true;
-            this.simpleButton2.Location = new System.Drawing.Point(13, 605);
-            this.simpleButton2.Name = "simpleButton2";
-            this.simpleButton2.Size = new System.Drawing.Size(160, 29);
-            this.simpleButton2.TabIndex = 42;
-            this.simpleButton2.Text = "Arrange By Name";
+            this.textname.BackColor = System.Drawing.Color.OrangeRed;
+            this.textname.BorderColor = System.Drawing.Color.MediumSlateBlue;
+            this.textname.BorderFocusColor = System.Drawing.Color.HotPink;
+            this.textname.BorderSize = 6;
+            this.textname.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textname.ForeColor = System.Drawing.Color.Black;
+            this.textname.Location = new System.Drawing.Point(4, 331);
+            this.textname.Margin = new System.Windows.Forms.Padding(4);
+            this.textname.Multiline = false;
+            this.textname.Name = "textname";
+            this.textname.Padding = new System.Windows.Forms.Padding(7);
+            this.textname.PasswordChar = false;
+            this.textname.Size = new System.Drawing.Size(169, 33);
+            this.textname.TabIndex = 45;
+            this.textname.Texts = "";
+            this.textname.UnderlinedStyle = true;
+            this.textname._TextChanged += new System.EventHandler(this.Textname__TextChanged);
             // 
-            // simpleButton5
+            // btnorder
             // 
-            this.simpleButton5.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.simpleButton5.Appearance.Options.UseFont = true;
-            this.simpleButton5.AppearanceHovered.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.simpleButton5.AppearanceHovered.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.simpleButton5.AppearanceHovered.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.simpleButton5.AppearanceHovered.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.simpleButton5.AppearanceHovered.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.simpleButton5.AppearanceHovered.Options.UseBackColor = true;
-            this.simpleButton5.AppearanceHovered.Options.UseBorderColor = true;
-            this.simpleButton5.AppearanceHovered.Options.UseFont = true;
-            this.simpleButton5.AppearanceHovered.Options.UseForeColor = true;
-            this.simpleButton5.AppearancePressed.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.simpleButton5.AppearancePressed.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.simpleButton5.AppearancePressed.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.simpleButton5.AppearancePressed.ForeColor = System.Drawing.Color.Silver;
-            this.simpleButton5.AppearancePressed.Options.UseBackColor = true;
-            this.simpleButton5.AppearancePressed.Options.UseFont = true;
-            this.simpleButton5.AppearancePressed.Options.UseForeColor = true;
-            this.simpleButton5.Location = new System.Drawing.Point(13, 554);
-            this.simpleButton5.Name = "simpleButton5";
-            this.simpleButton5.Size = new System.Drawing.Size(160, 29);
-            this.simpleButton5.TabIndex = 43;
-            this.simpleButton5.Text = "Delete";
+            this.btnorder.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnorder.Appearance.Options.UseFont = true;
+            this.btnorder.AppearanceHovered.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnorder.AppearanceHovered.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnorder.AppearanceHovered.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.btnorder.AppearanceHovered.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnorder.AppearanceHovered.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnorder.AppearanceHovered.Options.UseBackColor = true;
+            this.btnorder.AppearanceHovered.Options.UseBorderColor = true;
+            this.btnorder.AppearanceHovered.Options.UseFont = true;
+            this.btnorder.AppearanceHovered.Options.UseForeColor = true;
+            this.btnorder.AppearancePressed.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.btnorder.AppearancePressed.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.btnorder.AppearancePressed.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnorder.AppearancePressed.ForeColor = System.Drawing.Color.Silver;
+            this.btnorder.AppearancePressed.Options.UseBackColor = true;
+            this.btnorder.AppearancePressed.Options.UseFont = true;
+            this.btnorder.AppearancePressed.Options.UseForeColor = true;
+            this.btnorder.Location = new System.Drawing.Point(14, 605);
+            this.btnorder.Name = "btnorder";
+            this.btnorder.Size = new System.Drawing.Size(159, 29);
+            this.btnorder.TabIndex = 42;
+            this.btnorder.Text = "Arrange By Name";
+            this.btnorder.Click += new System.EventHandler(this.SimpleButton2_Click);
             // 
-            // simpleButton6
+            // btnremove
             // 
-            this.simpleButton6.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.simpleButton6.Appearance.Options.UseFont = true;
-            this.simpleButton6.AppearanceHovered.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.simpleButton6.AppearanceHovered.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.simpleButton6.AppearanceHovered.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.simpleButton6.AppearanceHovered.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.simpleButton6.AppearanceHovered.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.simpleButton6.AppearanceHovered.Options.UseBackColor = true;
-            this.simpleButton6.AppearanceHovered.Options.UseBorderColor = true;
-            this.simpleButton6.AppearanceHovered.Options.UseFont = true;
-            this.simpleButton6.AppearanceHovered.Options.UseForeColor = true;
-            this.simpleButton6.AppearancePressed.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.simpleButton6.AppearancePressed.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.simpleButton6.AppearancePressed.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.simpleButton6.AppearancePressed.ForeColor = System.Drawing.Color.Silver;
-            this.simpleButton6.AppearancePressed.Options.UseBackColor = true;
-            this.simpleButton6.AppearancePressed.Options.UseFont = true;
-            this.simpleButton6.AppearancePressed.Options.UseForeColor = true;
-            this.simpleButton6.Location = new System.Drawing.Point(13, 458);
-            this.simpleButton6.Name = "simpleButton6";
-            this.simpleButton6.Size = new System.Drawing.Size(160, 29);
-            this.simpleButton6.TabIndex = 44;
-            this.simpleButton6.Text = "Search";
+            this.btnremove.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnremove.Appearance.Options.UseFont = true;
+            this.btnremove.AppearanceHovered.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnremove.AppearanceHovered.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnremove.AppearanceHovered.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.btnremove.AppearanceHovered.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnremove.AppearanceHovered.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnremove.AppearanceHovered.Options.UseBackColor = true;
+            this.btnremove.AppearanceHovered.Options.UseBorderColor = true;
+            this.btnremove.AppearanceHovered.Options.UseFont = true;
+            this.btnremove.AppearanceHovered.Options.UseForeColor = true;
+            this.btnremove.AppearancePressed.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.btnremove.AppearancePressed.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.btnremove.AppearancePressed.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnremove.AppearancePressed.ForeColor = System.Drawing.Color.Silver;
+            this.btnremove.AppearancePressed.Options.UseBackColor = true;
+            this.btnremove.AppearancePressed.Options.UseFont = true;
+            this.btnremove.AppearancePressed.Options.UseForeColor = true;
+            this.btnremove.Location = new System.Drawing.Point(14, 554);
+            this.btnremove.Name = "btnremove";
+            this.btnremove.Size = new System.Drawing.Size(159, 29);
+            this.btnremove.TabIndex = 43;
+            this.btnremove.Text = "Delete";
+            this.btnremove.Click += new System.EventHandler(this.Btnremove_Click);
             // 
-            // btnclear
+            // btnsearch
             // 
-            this.btnclear.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnclear.Appearance.Options.UseFont = true;
-            this.btnclear.AppearanceHovered.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.btnclear.AppearanceHovered.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.btnclear.AppearanceHovered.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.btnclear.AppearanceHovered.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnclear.AppearanceHovered.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnclear.AppearanceHovered.Options.UseBackColor = true;
-            this.btnclear.AppearanceHovered.Options.UseBorderColor = true;
-            this.btnclear.AppearanceHovered.Options.UseFont = true;
-            this.btnclear.AppearanceHovered.Options.UseForeColor = true;
-            this.btnclear.AppearancePressed.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.btnclear.AppearancePressed.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.btnclear.AppearancePressed.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnclear.AppearancePressed.ForeColor = System.Drawing.Color.Silver;
-            this.btnclear.AppearancePressed.Options.UseBackColor = true;
-            this.btnclear.AppearancePressed.Options.UseFont = true;
-            this.btnclear.AppearancePressed.Options.UseForeColor = true;
-            this.btnclear.Location = new System.Drawing.Point(13, 504);
-            this.btnclear.Name = "btnclear";
-            this.btnclear.Size = new System.Drawing.Size(160, 29);
-            this.btnclear.TabIndex = 41;
-            this.btnclear.Text = "Update";
+            this.btnsearch.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnsearch.Appearance.Options.UseFont = true;
+            this.btnsearch.AppearanceHovered.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnsearch.AppearanceHovered.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnsearch.AppearanceHovered.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.btnsearch.AppearanceHovered.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnsearch.AppearanceHovered.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnsearch.AppearanceHovered.Options.UseBackColor = true;
+            this.btnsearch.AppearanceHovered.Options.UseBorderColor = true;
+            this.btnsearch.AppearanceHovered.Options.UseFont = true;
+            this.btnsearch.AppearanceHovered.Options.UseForeColor = true;
+            this.btnsearch.AppearancePressed.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.btnsearch.AppearancePressed.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.btnsearch.AppearancePressed.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnsearch.AppearancePressed.ForeColor = System.Drawing.Color.Silver;
+            this.btnsearch.AppearancePressed.Options.UseBackColor = true;
+            this.btnsearch.AppearancePressed.Options.UseFont = true;
+            this.btnsearch.AppearancePressed.Options.UseForeColor = true;
+            this.btnsearch.Location = new System.Drawing.Point(14, 458);
+            this.btnsearch.Name = "btnsearch";
+            this.btnsearch.Size = new System.Drawing.Size(159, 29);
+            this.btnsearch.TabIndex = 44;
+            this.btnsearch.Text = "Search";
+            this.btnsearch.Click += new System.EventHandler(this.Btnsearch_Click);
+            // 
+            // btnupdate
+            // 
+            this.btnupdate.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnupdate.Appearance.Options.UseFont = true;
+            this.btnupdate.AppearanceHovered.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnupdate.AppearanceHovered.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnupdate.AppearanceHovered.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.btnupdate.AppearanceHovered.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnupdate.AppearanceHovered.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnupdate.AppearanceHovered.Options.UseBackColor = true;
+            this.btnupdate.AppearanceHovered.Options.UseBorderColor = true;
+            this.btnupdate.AppearanceHovered.Options.UseFont = true;
+            this.btnupdate.AppearanceHovered.Options.UseForeColor = true;
+            this.btnupdate.AppearancePressed.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.btnupdate.AppearancePressed.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.btnupdate.AppearancePressed.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnupdate.AppearancePressed.ForeColor = System.Drawing.Color.Silver;
+            this.btnupdate.AppearancePressed.Options.UseBackColor = true;
+            this.btnupdate.AppearancePressed.Options.UseFont = true;
+            this.btnupdate.AppearancePressed.Options.UseForeColor = true;
+            this.btnupdate.Location = new System.Drawing.Point(14, 504);
+            this.btnupdate.Name = "btnupdate";
+            this.btnupdate.Size = new System.Drawing.Size(159, 29);
+            this.btnupdate.TabIndex = 41;
+            this.btnupdate.Text = "Update";
+            this.btnupdate.Click += new System.EventHandler(this.Btnupdate_Click);
             // 
             // img3
             // 
@@ -223,21 +249,12 @@
             this.img1.TabIndex = 11;
             this.img1.TabStop = false;
             // 
-            // textname
-            // 
-            this.textname.Location = new System.Drawing.Point(13, 343);
-            this.textname.Multiline = true;
-            this.textname.Name = "textname";
-            this.textname.Size = new System.Drawing.Size(160, 40);
-            this.textname.TabIndex = 10;
-            this.textname.TextChanged += new System.EventHandler(this.Textname_TextChanged);
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(21, 308);
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(10, 308);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(143, 19);
             this.label1.TabIndex = 9;
@@ -265,12 +282,41 @@
             this.productimg1DataGridViewImageColumn,
             this.productimg2DataGridViewImageColumn,
             this.productimg3DataGridViewImageColumn});
-            this.dataimages.DataSource = this.mobileimagesBindingSource;
+            this.dataimages.DataSource = this.mobileimagesBindingSource1;
             this.dataimages.Location = new System.Drawing.Point(179, 308);
             this.dataimages.Name = "dataimages";
             this.dataimages.RowHeadersWidth = 30;
             this.dataimages.Size = new System.Drawing.Size(994, 343);
             this.dataimages.TabIndex = 8;
+            this.dataimages.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.Dataimages_CellContentClick);
+            // 
+            // nameproductDataGridViewTextBoxColumn
+            // 
+            this.nameproductDataGridViewTextBoxColumn.DataPropertyName = "nameproduct";
+            this.nameproductDataGridViewTextBoxColumn.HeaderText = "nameproduct";
+            this.nameproductDataGridViewTextBoxColumn.Name = "nameproductDataGridViewTextBoxColumn";
+            // 
+            // productimg1DataGridViewImageColumn
+            // 
+            this.productimg1DataGridViewImageColumn.DataPropertyName = "productimg1";
+            this.productimg1DataGridViewImageColumn.HeaderText = "productimg1";
+            this.productimg1DataGridViewImageColumn.Name = "productimg1DataGridViewImageColumn";
+            // 
+            // productimg2DataGridViewImageColumn
+            // 
+            this.productimg2DataGridViewImageColumn.DataPropertyName = "productimg2";
+            this.productimg2DataGridViewImageColumn.HeaderText = "productimg2";
+            this.productimg2DataGridViewImageColumn.Name = "productimg2DataGridViewImageColumn";
+            // 
+            // productimg3DataGridViewImageColumn
+            // 
+            this.productimg3DataGridViewImageColumn.DataPropertyName = "productimg3";
+            this.productimg3DataGridViewImageColumn.HeaderText = "productimg3";
+            this.productimg3DataGridViewImageColumn.Name = "productimg3DataGridViewImageColumn";
+            // 
+            // mobileimagesBindingSource1
+            // 
+            this.mobileimagesBindingSource1.DataSource = typeof(WindowsFormsApp1.mobile_images);
             // 
             // btn1add
             // 
@@ -282,9 +328,9 @@
             this.btn1add.AppearanceHovered.Options.UseBackColor = true;
             this.btn1add.AppearancePressed.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btn1add.AppearancePressed.Options.UseBackColor = true;
-            this.btn1add.Location = new System.Drawing.Point(13, 408);
+            this.btn1add.Location = new System.Drawing.Point(14, 408);
             this.btn1add.Name = "btn1add";
-            this.btn1add.Size = new System.Drawing.Size(160, 29);
+            this.btn1add.Size = new System.Drawing.Size(159, 29);
             this.btn1add.TabIndex = 7;
             this.btn1add.Text = "Add";
             this.btn1add.Click += new System.EventHandler(this.Btn1add_Click);
@@ -334,6 +380,10 @@
             this.btnimg1.Text = "upload image 1";
             this.btnimg1.Click += new System.EventHandler(this.Btnimg1_Click);
             // 
+            // mobileimagesBindingSource
+            // 
+            this.mobileimagesBindingSource.DataSource = typeof(WindowsFormsApp1.mobile_images);
+            // 
             // dialogimg1
             // 
             this.dialogimg1.FileName = "openFileDialog1";
@@ -345,34 +395,6 @@
             // dialogimg3
             // 
             this.dialogimg3.FileName = "openFileDialog3";
-            // 
-            // nameproductDataGridViewTextBoxColumn
-            // 
-            this.nameproductDataGridViewTextBoxColumn.DataPropertyName = "nameproduct";
-            this.nameproductDataGridViewTextBoxColumn.HeaderText = "nameproduct";
-            this.nameproductDataGridViewTextBoxColumn.Name = "nameproductDataGridViewTextBoxColumn";
-            // 
-            // productimg1DataGridViewImageColumn
-            // 
-            this.productimg1DataGridViewImageColumn.DataPropertyName = "productimg1";
-            this.productimg1DataGridViewImageColumn.HeaderText = "productimg1";
-            this.productimg1DataGridViewImageColumn.Name = "productimg1DataGridViewImageColumn";
-            // 
-            // productimg2DataGridViewImageColumn
-            // 
-            this.productimg2DataGridViewImageColumn.DataPropertyName = "productimg2";
-            this.productimg2DataGridViewImageColumn.HeaderText = "productimg2";
-            this.productimg2DataGridViewImageColumn.Name = "productimg2DataGridViewImageColumn";
-            // 
-            // productimg3DataGridViewImageColumn
-            // 
-            this.productimg3DataGridViewImageColumn.DataPropertyName = "productimg3";
-            this.productimg3DataGridViewImageColumn.HeaderText = "productimg3";
-            this.productimg3DataGridViewImageColumn.Name = "productimg3DataGridViewImageColumn";
-            // 
-            // mobileimagesBindingSource
-            // 
-            this.mobileimagesBindingSource.DataSource = typeof(WindowsFormsApp1.mobile_images);
             // 
             // mobilesimges
             // 
@@ -389,6 +411,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.img2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.img1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataimages)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.mobileimagesBindingSource1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.mobileimagesBindingSource)).EndInit();
             this.ResumeLayout(false);
 
@@ -405,7 +428,6 @@
         private System.Windows.Forms.OpenFileDialog dialogimg1;
         private System.Windows.Forms.OpenFileDialog dialogimg2;
         private System.Windows.Forms.OpenFileDialog dialogimg3;
-        private System.Windows.Forms.TextBox textname;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox img3;
         private System.Windows.Forms.PictureBox img2;
@@ -415,9 +437,11 @@
         private System.Windows.Forms.DataGridViewImageColumn productimg2DataGridViewImageColumn;
         private System.Windows.Forms.DataGridViewImageColumn productimg3DataGridViewImageColumn;
         private System.Windows.Forms.BindingSource mobileimagesBindingSource;
-        private DevExpress.XtraEditors.SimpleButton btnclear;
-        private DevExpress.XtraEditors.SimpleButton simpleButton2;
-        private DevExpress.XtraEditors.SimpleButton simpleButton5;
-        private DevExpress.XtraEditors.SimpleButton simpleButton6;
+        private DevExpress.XtraEditors.SimpleButton btnupdate;
+        private DevExpress.XtraEditors.SimpleButton btnorder;
+        private DevExpress.XtraEditors.SimpleButton btnremove;
+        private DevExpress.XtraEditors.SimpleButton btnsearch;
+        private custom.textbox textname;
+        private System.Windows.Forms.BindingSource mobileimagesBindingSource1;
     }
 }

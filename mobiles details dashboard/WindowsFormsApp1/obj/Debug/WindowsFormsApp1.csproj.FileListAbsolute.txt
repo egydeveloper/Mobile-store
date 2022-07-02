@@ -189,7 +189,6 @@ C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\bi
 C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
 C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
 C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
-C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
 C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mobiledetails.resources
 C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mobilesimges.resources
 C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
@@ -199,5 +198,7 @@ C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\ob
 C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
 C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
-C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.intiatcreate.resources
 C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mobiles.resources
+C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.custom.textbox.resources
+C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\NoteBook\OneDrive\Desktop\mobiles details dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.intiatecreate.resources

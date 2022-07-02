@@ -9,11 +9,13 @@ namespace WindowsFormsApp1
 {
     class entitystore:DbContext
     {
-        public entitystore() : base("name=mobilesdb")
+        public entitystore() : base("name=mobilesdbs")
         {
         }
         public DbSet<mobildetaile> mobdetailes { get; set; }
         public DbSet<mobile_images> mobimages { get; set; }
-    
+      
+
+       
     }
 }

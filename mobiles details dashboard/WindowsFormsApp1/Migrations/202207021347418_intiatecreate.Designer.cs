@@ -7,13 +7,13 @@ namespace WindowsFormsApp1.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.4.4")]
-    public sealed partial class intiatcreate : IMigrationMetadata
+    public sealed partial class intiatecreate : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(intiatcreate));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(intiatecreate));
         
         string IMigrationMetadata.Id
         {
-            get { return "202206290805295_intiatcreate"; }
+            get { return "202207021347418_intiatecreate"; }
         }
         
         string IMigrationMetadata.Source
